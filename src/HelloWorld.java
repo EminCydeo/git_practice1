@@ -12,5 +12,7 @@ public class HelloWorld {
     // kkdaj;lfja
 // kkkkekmdooo
     //kdkkdk
+    public static void main(String[] args) {
 
+    }
 }
