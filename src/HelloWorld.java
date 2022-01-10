@@ -14,6 +14,7 @@ public class HelloWorld {
     //kdkkdk
     public static void main(String[] args) {
         System.out.println("emin");
+        System.out.println("alp robin");
 
     }
 }
